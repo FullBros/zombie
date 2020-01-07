@@ -1,0 +1,17 @@
+body {
+	/*background: #000 url(http://wallpapercave.com/wp/uXCtj9i.jpg) no-repeat;*/
+	background: #000 url(http://wallpapercave.com/wp/2L7HxOt.jpg) no-repeat;
+	background-size: cover;
+	padding:0px;
+	margin:0px;
+}
+
+#game {
+	position: absolute;
+	width: 800px;
+	height: 600px;
+	top: 50%;
+	left: 50%;
+	margin-top: -300px;
+	margin-left: -400px;
+}
